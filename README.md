@@ -40,4 +40,25 @@ Scrapes personal care product data from Myntra including:
 - Price  
 - Rating  
 - Number of Reviews  
-- Link  
+- Link
+
+---
+
+## **Q3 – Product Analysis & Insights**
+
+Using the scraped dataset from Q2 (`scraper_q2.csv`), this part performs data analysis to generate meaningful insights.
+
+### Files Involved
+- `src/analysis_q3.py`
+- `data/q3_insights.csv`
+
+### Insights Generated
+The script analyzes the dataset and produces:
+
+1. **Top 10 Highest Rated Products**  
+2. **Top 10 Most Affordable Products**  
+3. **Top 10 Best Value-for-Money Products**  
+    - Based on the formula:  
+      `value_score = rating / price`
+4. **Brand-wise Product Count**
+5. **All insights saved into a single CSV file:** 
