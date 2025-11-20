@@ -1,4 +1,4 @@
-# 🧴 Personal Care Chatbot – Assignment Q1 & Q2  
+# Personal Care Chatbot – Assignment 
 A complete solution for building a **Personal Care Chatbot** along with **Myntra product scraping**, as required in the assignment.
 
 This repository contains both:
@@ -41,20 +41,3 @@ Scrapes personal care product data from Myntra including:
 - Rating  
 - Number of Reviews  
 - Link  
-
-Saved into:
-
-personal_care_chatbot/
-│
-├── data/
-│ ├── dummy_products_q1.csv
-│ └── myntra_scraped_q2.csv
-│
-├── src/
-│ ├── chatbot_poc.py
-│ ├── create_dummy_data.py
-│ ├── insert_conversations.py
-│ └── scrape_myntra.py
-│
-├── README.md
-└── .gitignore
