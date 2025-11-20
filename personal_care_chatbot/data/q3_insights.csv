@@ -1,0 +1,41 @@
+brand,product_name,price,mrp,rating,rating_count,product_link,section,value_score,count
+Dove,Dove Night Cream,230,365,5,119,https://www.myntra.com/dove-night-cream-46,Top Rated,,
+Ponds,Ponds Lip Balm,397,586,4.9,1773,https://www.myntra.com/ponds-lip-balm-0,Top Rated,,
+Dove,Dove Face Serum,889,1001,4.9,1006,https://www.myntra.com/dove-face-serum-16,Top Rated,,
+Ponds,Ponds Moisturizer,351,526,4.9,4740,https://www.myntra.com/ponds-moisturizer-19,Top Rated,,
+Maybelline,Maybelline Conditioner,167,252,4.9,1160,https://www.myntra.com/maybelline-conditioner-12,Top Rated,,
+Ponds,Ponds Night Cream,408,513,4.9,876,https://www.myntra.com/ponds-night-cream-39,Top Rated,,
+Mamaearth,Mamaearth Shampoo,314,446,4.8,2571,https://www.myntra.com/mamaearth-shampoo-49,Top Rated,,
+Loreal,Loreal Shampoo,339,391,4.8,2787,https://www.myntra.com/loreal-shampoo-23,Top Rated,,
+Maybelline,Maybelline Body Lotion,168,361,4.8,1213,https://www.myntra.com/maybelline-body-lotion-28,Top Rated,,
+Lakme,Lakme Day Cream,720,768,4.8,1821,https://www.myntra.com/lakme-day-cream-17,Top Rated,,
+Maybelline,Maybelline Moisturizer,154,191,4.3,2822,https://www.myntra.com/maybelline-moisturizer-45,Affordable,,
+Loreal,Loreal Body Lotion,162,358,4.3,2369,https://www.myntra.com/loreal-body-lotion-38,Affordable,,
+Maybelline,Maybelline Conditioner,167,252,4.9,1160,https://www.myntra.com/maybelline-conditioner-12,Affordable,,
+Maybelline,Maybelline Body Lotion,168,361,4.8,1213,https://www.myntra.com/maybelline-body-lotion-28,Affordable,,
+WOW Skin Science,WOW Skin Science Lipstick,180,356,4,2320,https://www.myntra.com/wow skin science-lipstick-26,Affordable,,
+Lakme,Lakme Moisturizer,194,315,4.2,1250,https://www.myntra.com/lakme-moisturizer-20,Affordable,,
+WOW Skin Science,WOW Skin Science Face Serum,222,264,4.7,2852,https://www.myntra.com/wow skin science-face-serum-32,Affordable,,
+WOW Skin Science,WOW Skin Science Lip Balm,225,406,3.2,298,https://www.myntra.com/wow skin science-lip-balm-8,Affordable,,
+Lakme,Lakme Cleanser,225,344,3.7,2972,https://www.myntra.com/lakme-cleanser-34,Affordable,,
+Dove,Dove Night Cream,230,365,5,119,https://www.myntra.com/dove-night-cream-46,Affordable,,
+Maybelline,Maybelline Conditioner,167,252,4.9,1160,https://www.myntra.com/maybelline-conditioner-12,Value for Money,0.029341317,
+Maybelline,Maybelline Body Lotion,168,361,4.8,1213,https://www.myntra.com/maybelline-body-lotion-28,Value for Money,0.028571429,
+Maybelline,Maybelline Moisturizer,154,191,4.3,2822,https://www.myntra.com/maybelline-moisturizer-45,Value for Money,0.027922078,
+Loreal,Loreal Body Lotion,162,358,4.3,2369,https://www.myntra.com/loreal-body-lotion-38,Value for Money,0.02654321,
+WOW Skin Science,WOW Skin Science Lipstick,180,356,4,2320,https://www.myntra.com/wow skin science-lipstick-26,Value for Money,0.022222222,
+Dove,Dove Night Cream,230,365,5,119,https://www.myntra.com/dove-night-cream-46,Value for Money,0.02173913,
+Lakme,Lakme Moisturizer,194,315,4.2,1250,https://www.myntra.com/lakme-moisturizer-20,Value for Money,0.021649485,
+WOW Skin Science,WOW Skin Science Face Serum,222,264,4.7,2852,https://www.myntra.com/wow skin science-face-serum-32,Value for Money,0.021171171,
+Loreal,Loreal Face Wash,237,311,4.7,573,https://www.myntra.com/loreal-face-wash-48,Value for Money,0.019831224,
+Loreal,Loreal Shampoo,257,311,4.7,1498,https://www.myntra.com/loreal-shampoo-10,Value for Money,0.018287938,
+Ponds,,,,,,,Brand Count,,10
+Lakme,,,,,,,Brand Count,,10
+WOW Skin Science,,,,,,,Brand Count,,8
+Nivea,,,,,,,Brand Count,,8
+Loreal,,,,,,,Brand Count,,8
+Maybelline,,,,,,,Brand Count,,7
+Dove,,,,,,,Brand Count,,6
+Himalaya,,,,,,,Brand Count,,6
+Plum,,,,,,,Brand Count,,4
+Mamaearth,,,,,,,Brand Count,,3
