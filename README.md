@@ -64,7 +64,7 @@ The script analyzes the dataset and produces:
 5. **All insights saved into a single CSV file:** 
 
 ### Folder Structure
-
+``` 
 personal_care_chatbot/
 │
 ├── data/
@@ -78,3 +78,6 @@ personal_care_chatbot/
 │ ├── insert_conversations.py
 │ ├── scraper_q2.py
 │ └── analysis_q3.py
+```
+
+
