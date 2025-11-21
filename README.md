@@ -62,3 +62,19 @@ The script analyzes the dataset and produces:
       `value_score = rating / price`
 4. **Brand-wise Product Count**
 5. **All insights saved into a single CSV file:** 
+
+### Folder Structure
+
+personal_care_chatbot/
+│
+├── data/
+│ ├── dummy_products_q1.csv
+│ ├── myntra_scraped_q2.csv
+│ └── q3_insights.csv
+│
+├── src/
+│ ├── chatbot_poc.py
+│ ├── create_dummy_data.py
+│ ├── insert_conversations.py
+│ ├── scraper_q2.py
+│ └── analysis_q3.py
